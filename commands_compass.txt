@@ -1,0 +1,6 @@
+
+compass create
+
+// Ajustar config.rb
+
+compass watch css/estilos.scss
